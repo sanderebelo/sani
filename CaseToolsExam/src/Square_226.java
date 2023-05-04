@@ -1,6 +1,8 @@
 
 public class Square_226 {
 	int length;
+	int area;
+	int perimeter;
 	Square_226(int length)
 	{
 		this.length=length;
